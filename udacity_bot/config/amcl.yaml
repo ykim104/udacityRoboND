@@ -1,0 +1,12 @@
+#overall filter
+min_particles: 5
+max_particles: 100
+transform_toleranc: 0.2
+initial_pose_x: 0
+initial_pose_y: 0
+
+#laser
+laser_model_type: "likelihood_field"
+
+#odometry
+odom_model_type: "diff-corrected"
