@@ -1,5 +1,22 @@
 # udacityRoboND
 
+## Localization
+- Textbook Probabilistic Robotics [[link](http://www.probabilistic-robotics.org/)]
+- Udacity AI for Robotics [[link](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)]
+- Robust Monte Carlo Localization for Mobile Robots. Sebastian Thrun. [[link](http://robots.stanford.edu/papers/thrun.robust-mcl.pdf)]
+
+## Mapping
+- ROS slam_gmapping [[link](https://github.com/ros-perception/slam_gmapping)]
+- A Tutorial on Graph-Based SLAM, Grisetti [[link](http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf)]
+- GraphSLAM, Thrun [[link](http://robot.cc/papers/thrun.graphslam.pdf)]
+- RTAB-MAP Parameter Tutorial [[link](http://wiki.ros.org/rtabmap_ros/Tutorials/Advanced%20Parameter%20Tuning)]
+
+### Resources
+- [roswtf](http://wiki.ros.org/ROS/Tutorials/Getting%20started%20with%20roswtf)
+- [tf library](http://wiki.ros.org/tf2)
+- [rqt console](http://wiki.ros.org/rqt_console?distro=kinetic)
+- RTAB-MAP
+
 ## Reinforcement Learning
 - Notation CheatSheet [[link](https://github.com/udacity/rl-cheatsheet/blob/master/cheatsheet.pdf)]
 - Textbook by Richard S. Sutton and Andrew G. Barto [[link](https://s3-us-west-1.amazonaws.com/udacity-dlnfd/suttonbookdraft2018jan1.pdf)]
