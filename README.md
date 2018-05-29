@@ -30,3 +30,29 @@
 - [OpenAI Gym](https://github.com/openai/gym)
 
 ## Path Planning and Navigation
+
+### Classic Path Planning
+- Minkowski sums and differences [[link](http://twistedoakstudios.com/blog/Post554_minkowski-sums-and-differences)]
+- Collions in video games [[link](https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects)]
+- Configuration Space Visualization [[link](https://www.youtube.com/watch?v=SBFwgR4K1Gk)]
+- Heuristics [[link](http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html)]
+- Path Finding Visualization [[link](https://qiao.github.io/PathFinding.js/visual/)]
+- MovingAI A* Variants [[link](https://movingai.com/astar-var.html)]
+- Variants of A* [[link](http://theory.stanford.edu/~amitp/GameProgramming/Variations.html)]
+
+### Sample-based and Probabilistic Path Planning
+- A Comparative Study of Probabilistic Roadmap Planners [[link](http://www.staff.science.uu.nl/~gerae101/pdf/compare.pdf)]
+- Path planning for Non-Circular Mico Aerial Vehicles in Constrained Environment [[link](https://www.cs.cmu.edu/~maxim/files/pathplanforMAV_icra13.pdf)]
+
+### Navigation with Deep RL
+- Learning to navigate in complex environments. Mirowski, Piotr [[link](https://arxiv.org/pdf/1611.03673.pdf)]
+- RL with unsupervised auxiliary tasks. DeepMind [[link](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/)]
+- Asynchronous methods for DRL. Mnih, Volodymyr. [[link](http://proceedings.mlr.press/v48/mniha16.pdf)]
+- Simple RL with Tensorflow: A3C. [[link](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)]
+- A brief survey of Deep RL. Arulkumaran, Kai et al. [[link](https://arxiv.org/pdf/1708.05866.pdf)]
+- Self-supervised Deep Reinforcement Learning with Generalized Compuation Graphs for Robot Navigation. Kahn, Gregoary, et al. [[link](https://www.groundai.com/project/self-supervised-deep-reinforcement-learning-with-generalized-computation-graphs-for-robot-navigation/)]
+- Target-driven visual navigation in indoor scenes using Deep RL. Zhu, Yuke, et al. [[link](https://arxiv.org/pdf/1609.05143.pdf)]
+
+### Resources
+- OpenAI Ingredients for Robotic Research [[link](https://blog.openai.com/ingredients-for-robotics-research/)]
+- OpenAI Systems [[link](https://openai.com/systems/)]
