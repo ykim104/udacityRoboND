@@ -73,3 +73,6 @@
 ### Resources
 - OpenAI Ingredients for Robotic Research [[link](https://blog.openai.com/ingredients-for-robotics-research/)]
 - OpenAI Systems [[link](https://openai.com/systems/)]
+- ROS Gmapping [[link](http://wiki.ros.org/gmapping#Parameters)]
+- ROS map-server [[link](http://wiki.ros.org/map_server#YAML_format)]
+- ROS Writing a Global Path Planner [[link](http://wiki.ros.org/navigation/Tutorials/Writing%20A%20Global%20Path%20Planner%20As%20Plugin%20in%20ROS)]
