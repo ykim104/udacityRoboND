@@ -1,0 +1,8 @@
+prefix=/home/nvidia/catkin_ws/install
+
+Name: roswtf
+Description: Description of roswtf
+Version: 1.14.1
+Cflags: 
+Libs: -L/home/nvidia/catkin_ws/install/lib 
+Requires: 

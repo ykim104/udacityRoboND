@@ -1,0 +1,8 @@
+prefix=/home/nvidia/catkin_ws/devel
+
+Name: message_filters
+Description: Description of message_filters
+Version: 1.14.1
+Cflags: -I/home/nvidia/catkin_ws/src/ros_comm/utilities/message_filters/include
+Libs: -L/home/nvidia/catkin_ws/devel/lib -lmessage_filters
+Requires: roscpp rosconsole

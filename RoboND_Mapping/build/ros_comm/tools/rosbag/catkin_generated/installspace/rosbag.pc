@@ -1,0 +1,8 @@
+prefix=/home/nvidia/catkin_ws/install
+
+Name: rosbag
+Description: Description of rosbag
+Version: 1.14.1
+Cflags: -I/home/nvidia/catkin_ws/install/include
+Libs: -L/home/nvidia/catkin_ws/install/lib -lrosbag
+Requires: rosbag_storage rosconsole roscpp std_srvs topic_tools xmlrpcpp

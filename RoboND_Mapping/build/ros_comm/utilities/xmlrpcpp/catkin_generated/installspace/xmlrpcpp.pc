@@ -1,0 +1,8 @@
+prefix=/home/nvidia/catkin_ws/install
+
+Name: xmlrpcpp
+Description: Description of xmlrpcpp
+Version: 1.14.1
+Cflags: -I/home/nvidia/catkin_ws/install/include
+Libs: -L/home/nvidia/catkin_ws/install/lib -lxmlrpcpp
+Requires: cpp_common rostime

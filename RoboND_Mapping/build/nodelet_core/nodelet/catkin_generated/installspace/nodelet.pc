@@ -1,0 +1,8 @@
+prefix=/home/nvidia/catkin_ws/install
+
+Name: nodelet
+Description: Description of nodelet
+Version: 1.9.16
+Cflags: -I/home/nvidia/catkin_ws/install/include -I/usr/include
+Libs: -L/home/nvidia/catkin_ws/install/lib -lnodeletlib
+Requires: bondcpp message_runtime pluginlib rosconsole roscpp std_msgs
