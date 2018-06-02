@@ -15,7 +15,10 @@
 - [roswtf](http://wiki.ros.org/ROS/Tutorials/Getting%20started%20with%20roswtf)
 - [tf library](http://wiki.ros.org/tf2)
 - [rqt console](http://wiki.ros.org/rqt_console?distro=kinetic)
-- RTAB-MAP
+- [RTAB-MAP](https://github.com/introlab/rtabmap_ros#installation) [wiki ros](http://wiki.ros.org/rtabmap_ros)
+- [Turtlebot Mapping](http://wiki.ros.org/rtabmap_ros/Tutorials/MappingAndNavigationOnTurtlebot)
+- [ROS Kobuki](http://wiki.ros.org/kobuki/Tutorials/Make%20it%20move)
+- [ROS depthimage to laserscan](https://github.com/ros-perception/depthimage_to_laserscan)
 
 ## Reinforcement Learning
 - Notation CheatSheet [[link](https://github.com/udacity/rl-cheatsheet/blob/master/cheatsheet.pdf)]
