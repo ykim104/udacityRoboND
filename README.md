@@ -41,6 +41,7 @@
 
 ### Deep RL Manipulator
 - NVIDIA jetson reinforcement open source project [[link](https://github.com/dusty-nv/jetson-reinforcement)]
+- NVIDIA ROS Deep Learning Node [[link](https://github.com/dusty-nv/ros_deep_learning)]
 
 ### Resources
 - [Pytorch](https://pytorch.org/about/)
