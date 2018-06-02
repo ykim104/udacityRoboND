@@ -46,6 +46,8 @@
 ### Resources
 - [Pytorch](https://pytorch.org/about/)
 - [OpenAI Gym](https://github.com/openai/gym)
+- ROS Contact Sensor Tutorial [[link](http://gazebosim.org/tutorials?tut=contact_sensor)]
+- ROS Contact Sensor API [[link](http://osrf-distributions.s3.amazonaws.com/gazebo/api/dev/classgazebo_1_1sensors_1_1ContactSensor.html)]
 
 ## Path Planning and Navigation
 
